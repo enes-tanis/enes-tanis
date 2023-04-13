@@ -1,3 +1,9 @@
+![gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+rubber+duck+debugging+page!&center=true&size=17](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+page">
+  </a> 
+</h1>
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate full-stack developer from Sakarya/Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg2YjI4ZWIwNDViNzUzMzkxZTk2OWU2NjdkYTJmMmY2ZGEyOWUxMCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
