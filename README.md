@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on **KipKira Tech Rental website**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **Node.js**
+- 👯 I’m looking to collaborate on **React.js**
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **aenes.tanis@gmail.com**
 
